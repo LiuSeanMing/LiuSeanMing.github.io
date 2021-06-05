@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Search Results on Persian</title>
-    <link>https://LiuSeanMing.github.io/search/</link>
+    <link>https://liuseanming.github.io/search/</link>
     <description>Recent content in Search Results on Persian</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://LiuSeanMing.github.io/search/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://liuseanming.github.io/search/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
